@@ -1,0 +1,44 @@
+:root {
+    --cor-btn: #18c63b #00851b;
+    --cor-01: rgba(255, 255, 255, 0.5);
+    --cor-0: #ffffff;
+    --cor-1: #ebebeb;
+    --cor-2: #171716;
+    --cor-3: #101210;
+    --cor-4: #021105;
+    --cor-5: #2ada4d;
+    --cor-6: #383838;
+    --cor-7: #222622;
+}
+
+.cor-01 {
+    color: var(--cor-01);
+}
+
+.cor-0 {
+    color: var(--cor-0);
+}
+
+.cor-1 {
+    color: var(--cor-1);
+}
+
+.cor-2 {
+    background-color: var(--cor-2);
+}
+
+.cor-3 {
+    background-color: var(--cor-3);
+}
+
+.cor-4 {
+    color: var(--cor-4);
+}
+
+.cor-5 {
+    color: var(--cor-5);
+}
+
+.cor-6 {
+    background-color: var(--cor-6);
+}
